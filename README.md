@@ -1,9 +1,11 @@
 <br />
 <div align="center">
-  <a href="https://github.com/Minemetero/Minemetero/blob/main/head.gif">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Minemetero/Minemetero">
+    <img src="blob/main/head.gif" alt="Logo" width="80" height="80">
   </a>
+  
 <a name="readme-top"></a>
+  
 - 👋 Hi, I’m @Minemetero
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java for Minecraft development
