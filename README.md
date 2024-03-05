@@ -5,8 +5,6 @@
 - 📫 My Discord username Minemetero
 - 😄 Pronouns: SUCK<SILLY
 - ⚡ Fun fact: I'm a suck person......
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!---
 Minemetero/Minemetero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
