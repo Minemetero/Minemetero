@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java for Minecraft development
 - 💞️ I’m looking to collaborate on ... (Not Yet)
 - 📫 My Discord username Minemetero
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: SUCK<SILLY
+- ⚡ Fun fact: I'm a suck person......
 
 <!---
 Minemetero/Minemetero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
