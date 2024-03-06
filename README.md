@@ -6,7 +6,7 @@
 
 # **WELCOME! 🚀**
 
-Hey there, I’m **@Minemetero**, it better give me a cup of calpis when we meet(probably no......)! 👋
+Hey there, I’m **@Minemetero**, it better to give me a cup of calpis when we meet(probably no......)! 👋
 </div>
 
 <br/>
