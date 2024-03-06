@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Minemetero/Minemetero">
-    <img src="blob/main/head.gif" alt="head" width="80" height="80">
+    <img src="head.gif" alt="head" width="80" height="80">
   </a>
 
 - 👋 Hi, I’m @Minemetero
