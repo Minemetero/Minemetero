@@ -4,8 +4,6 @@
     <img src="blob/main/head.gif" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Minemeteor</h3>
-  
 - 👋 Hi, I’m @Minemetero
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java for Minecraft development
