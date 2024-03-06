@@ -5,22 +5,25 @@
   </a>
 </br>
 
-# WELCOME
-  
-👋 Hi, I’m @Minemetero
+# **WELCOME! 🚀**
 
-👀 I’m interested in coding
->
-> 🌱 I’m currently learning Java for Minecraft development
->> I'm pretty sure I need learn Pyhton......
->
-💞️ I’m looking to collaborate on ... (Not Yet)
+Hey there, I’m **@Minemetero**, it better give me a cup of calpis when we meet(probably no......)! 👋
 
-📫 My Discord username Minemetero
+**💻 Coding is my Jam:**  
+I’m all about diving into the world of bits and bytes, and currently, I'm try to learn Java cause I like Minecraft. 🧙‍♂️ But hey, I'm not stopping there, Python's on my radar too! 🐍
 
-😄 Pronouns: SUCK<**SILLY**
+**💞 Seeking Collaborations:**  
+While I'm not quite ready to team up just yet, I'm always open to brainstorming and exchanging ideas!
 
-⚡ Fun fact: I'm a suck person...... 
+**📫 Reach Me:**  
+You can find me buzzing around Discord as **Minemetero**.
+
+**😄 Pronouns:**  
+You can call me whatever you like, but I fancy **SUCK<**SILLY**>**. 😄
+
+**⚡ Fun Fact:**  
+I might be a bit of a "suck" person... but hey, that just makes life interesting, right? 😎
+
 <!---
 Minemetero/Minemetero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
