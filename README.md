@@ -5,8 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Welcome Page</title>
   <style>
+    body, html {
+      height: 100%; /* Ensure full height */
+      margin: 0;
+      padding: 0;
+    }
     .container {
-      text-align: center; /* Center-aligning the content */
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
     }
   </style>
 </head>
