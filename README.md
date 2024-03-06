@@ -11,8 +11,8 @@
 
 👀 I’m interested in coding
 >
->🌱 I’m currently learning Java for Minecraft development
->> - I'm pretty sure I need learn Pyhton......
+> 🌱 I’m currently learning Java for Minecraft development
+>> I'm pretty sure I need learn Pyhton......
 >
 💞️ I’m looking to collaborate on ... (Not Yet)
 
