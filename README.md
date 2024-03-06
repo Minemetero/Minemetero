@@ -18,7 +18,7 @@
 
 📫 My Discord username Minemetero
 
-😄 Pronouns: SUCK<SILLY
+😄 Pronouns: SUCK<**SILLY**
 
 ⚡ Fun fact: I'm a suck person...... 
 <!---
