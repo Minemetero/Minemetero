@@ -5,7 +5,7 @@
   </a>
 </br>
 
-  Welcome
+  WELCOME
 ---------------
   
 👋 Hi, I’m @Minemetero
