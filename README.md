@@ -7,19 +7,20 @@
 
 # WELCOME
   
-## 👋 Hi, I’m @Minemetero
+👋 Hi, I’m @Minemetero
 
-## 👀 I’m interested in coding
+👀 I’m interested in coding
+>
+>🌱 I’m currently learning Java for Minecraft development
+>> - I'm pretty sure I need learn Pyhton......
+>
+💞️ I’m looking to collaborate on ... (Not Yet)
 
-## 🌱 I’m currently learning Java for Minecraft development
+📫 My Discord username Minemetero
 
-## 💞️ I’m looking to collaborate on ... (Not Yet)
+😄 Pronouns: SUCK<**SILLY**
 
-## 📫 My Discord username Minemetero
-
-## 😄 Pronouns: SUCK<**SILLY**
-
-## ⚡ Fun fact: I'm a suck person...... 
+⚡ Fun fact: I'm a suck person...... 
 <!---
 Minemetero/Minemetero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
