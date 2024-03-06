@@ -3,7 +3,7 @@
   <a href="https://github.com/Minemetero/Minemetero">
     <img src="head.gif" alt="head" width="200" height="200">
   </a>
-<!-- main -->
+
 - 👋 Hi, I’m @Minemetero
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java for Minecraft development
