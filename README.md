@@ -9,6 +9,8 @@
 Hey there, I’m **@Minemetero**, it better give me a cup of calpis when we meet(probably no......)! 👋
 </div>
 
+
+
 **💻 Coding is my Jam:**  
 I’m all about diving into the world of bits and bytes, and currently, I'm trying to learn Java because I like Minecraft. 🧙‍♂️ But hey, I'm not stopping there, Python's on my radar too! 🐍
 
