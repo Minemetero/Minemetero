@@ -20,7 +20,7 @@ I’m all about diving into the world of bits and bytes, and currently, I'm tryi
 While I'm not quite ready to team up just yet, I'm always open to brainstorming and exchanging ideas!
 
 **📫 Reach Me:**  
-You can find me buzzing around Discord as **Minemetero**.
+You can find me buzzing around Discord as **Minemetero**.![Tools I use](https://skillicons.dev/icons?i=discord)
 
 **😄 Pronouns:**  
 You can call me whatever you like, but I fancy ~~SILLY~~. 😄
