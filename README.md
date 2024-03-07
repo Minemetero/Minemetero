@@ -32,6 +32,10 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,visualstudio,discord,linux,github,idea,)
 
+**🔭 More skill:**
+
+![Tech stack](https://skillicons.dev/icons?i=py,opencv,raspberrypi,tensorflow,java,bash)
+
 <!--- ![](https://github-readme-stats.vercel.app/api?username=Minemetero&show_icons=true) --->
 
 <br/>
