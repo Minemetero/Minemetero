@@ -26,7 +26,10 @@ You can find me buzzing around Discord as **Minemetero**.
 You can call me whatever you like, but I fancy ~~SILLY~~. 😄
 
 **⚡ Fun Fact:**  
-I might be a bit of a "~~suck~~ confidence" person... but hey, that just makes life interesting, right? 😎
+I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life interesting, right? 😎
+
+**🛠 Tools I use:**
+![Tools I use](https://skillicons.dev/icons?i=vscode,visualstudio,discord,linux,github,idea,)
 
 <!--- ![](https://github-readme-stats.vercel.app/api?username=Minemetero&show_icons=true) --->
 
