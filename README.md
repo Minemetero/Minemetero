@@ -6,7 +6,7 @@
   </a>
 
 
-# **WELCOME! 🚀**
+# **Day over day, year over year, you over yourself.🚀**
 
 Hey there, I’m **@Minemetero**, it better to give me a cup of calpis when we meet(probably no......)! 👋
 </div>
