@@ -40,3 +40,12 @@ I might be a bit of a "suck" person... but hey, that just makes life interesting
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minemetero/Minemetero/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Minemetero/Minemetero/output/github-contribution-grid-snake.svg">
 </picture>
+
+<details>
+<summary>Don't open...</summary>
+  <div align="center">
+
+![Metrics](https://metrics.lecoq.io/insights/Minemetero)
+
+</div>
+</details>
