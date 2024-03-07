@@ -1,3 +1,5 @@
+<!--- If you what copy my code it would be so funny, I'm also learning coding, I want to learn with you. :P --->
+
 <div align="center">
   <a href="https://github.com/Minemetero/Minemetero">
     <img src="head.gif" alt="head" width="300" height="300">
@@ -21,12 +23,10 @@ While I'm not quite ready to team up just yet, I'm always open to brainstorming 
 You can find me buzzing around Discord as **Minemetero**.
 
 **😄 Pronouns:**  
-You can call me whatever you like, but I fancy **SUCK~~
-**SILLY**~~
-**. 😄
+You can call me whatever you like, but I fancy ~~SILLY~~. 😄
 
 **⚡ Fun Fact:**  
-I might be a bit of a "suck" person... but hey, that just makes life interesting, right? 😎
+I might be a bit of a "~~suck~~ confidence" person... but hey, that just makes life interesting, right? 😎
 
 <!--- ![](https://github-readme-stats.vercel.app/api?username=Minemetero&show_icons=true) --->
 
@@ -42,6 +42,8 @@ I might be a bit of a "suck" person... but hey, that just makes life interesting
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minemetero/Minemetero/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Minemetero/Minemetero/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!--- fold some thing... --->
 
 <details>
 <summary>Don't open...</summary>
