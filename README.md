@@ -26,12 +26,10 @@ You can call me whatever you like, but I fancy **SUCK<**SILLY**>**. 😄
 **⚡ Fun Fact:**  
 I might be a bit of a "suck" person... but hey, that just makes life interesting, right? 😎
 
-<!---
-Minemetero/Minemetero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- ![](https://github-readme-stats.vercel.app/api?username=Minemetero&show_icons=true) --->
 
-![](https://github-readme-stats.vercel.app/api?username=Minemetero&show_icons=true)
+**您是第** <img src="https://profile-counter.glitch.me/Minemetero/count.svg?comment=哼啊啊啊啊啊啊啊啊啊啊啊啊" alt="icon" width="130px"> **位到访者**  
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minemetero/Minemetero/output/github-contribution-grid-snake-dark.svg">
