@@ -21,7 +21,9 @@ While I'm not quite ready to team up just yet, I'm always open to brainstorming 
 You can find me buzzing around Discord as **Minemetero**.
 
 **😄 Pronouns:**  
-You can call me whatever you like, but I fancy **SUCK<**SILLY**>**. 😄
+You can call me whatever you like, but I fancy **SUCK~~
+**SILLY**~~
+**. 😄
 
 **⚡ Fun Fact:**  
 I might be a bit of a "suck" person... but hey, that just makes life interesting, right? 😎
