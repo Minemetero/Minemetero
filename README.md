@@ -57,7 +57,9 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
 <summary>Don't open...</summary>
   <div align="center">
 
-![Metrics](https://metrics.lecoq.io/insights/Minemetero)
+![](https://github-readme-stats.vercel.app/api?username=Minemetero&count_private=true&show_icons=true&theme=dark&hide_rank=true)
+
+<!--- ![Metrics](https://metrics.lecoq.io/insights/Minemetero) --->
 
 </div>
 </details>
