@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Minemetero/Minemetero">
-    <img src="head.gif" alt="head" width="300" height="300">
+    <img src="head.gif" alt="logo" width="300" height="300">
   </a>
 
 
