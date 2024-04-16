@@ -5,10 +5,9 @@
     <img src="head.gif" alt="logo" width="300" height="300">
   </a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37F7B5&random=false&width=435&lines=Nice+to+meet+you%2C+how+are+you+doing%3F;What+a+wonderful+day!;Thanks+for+reading+me!;I+have+a+dream.....)](https://git.io/typing-svg)
 
-# **Nice to meet you, how you doing?🚀**
-
-Hey there, I’m **@Minemetero**, it better to give me a cup of calpis when we meet(probably no......)! 👋
+Hey there, I’m **@Minemetero**, it better to give me a cup of Calpis when we meet(probably no......)! 👋
 </div>
 
 <br/>
