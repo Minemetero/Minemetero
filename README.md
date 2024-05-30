@@ -41,7 +41,7 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
 
 <div align="center">
   
-**You are the** <img src="https://profile-counter.glitch.me/Minemetero/count.svg?comment=哼啊啊啊啊啊啊啊啊啊啊啊啊" alt="icon" width="130px"> **visitor**  
+**You are the** <img src="https://profile-counter.glitch.me/Minemetero/count.svg" alt="icon" width="130px"> **visitor**  
 </div>
 
 <picture>
