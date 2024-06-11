@@ -78,9 +78,14 @@ You don't need to open
 <summary>Don't open...</summary>
   <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Minemetero&count_private=true&show_icons=true&theme=dark&hide_rank=true)  
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/Minemetero/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/Minemetero/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
+[<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/Minemetero/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-![Metrics](https://metrics.lecoq.io/insights/Minemetero)  
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/Minemetero/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/Minemetero/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/Minemetero/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 </div>
 </details>
