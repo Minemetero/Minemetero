@@ -39,12 +39,7 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
 
 <br/>
 
-<div align="center">
-  
-**You are the** <img src="https://profile-counter.glitch.me/Minemetero/count.svg" alt="icon" width="130px"> **visitor**  
-</div>
-
-## Projects
+**Projects**
 
 You don't need to open
 
@@ -65,6 +60,11 @@ You don't need to open
   <summary>Dead</summary>
   <p> N/A </p>
 </details>
+
+<div align="center">
+  
+**You are the** <img src="https://profile-counter.glitch.me/Minemetero/count.svg" alt="icon" width="130px"> **visitor**  
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minemetero/Minemetero/output/github-contribution-grid-snake-dark.svg">
