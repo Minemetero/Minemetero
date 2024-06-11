@@ -35,7 +35,7 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
 
 ![Tech stack](https://skillicons.dev/icons?i=py,opencv,raspberrypi,tensorflow,java,bash)
 
-<!--- ![](https://github-readme-stats.vercel.app/api?username=Minemetero&show_icons=true) --->
+![](https://github-readme-stats.vercel.app/api?username=Minemetero&theme=one_dark_pro)  
 
 <br/>
 
