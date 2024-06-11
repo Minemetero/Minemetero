@@ -56,15 +56,11 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
   </a>
 </details>
 <details>
-  <summary>不活跃</summary>
+  <summary>Non-Active</summary>
   <p> N/A </p>
 </details>
 <details>
-  <summary>仅维护</summary>
-  <p> N/A </p>
-</details>
-<details>
-  <summary>停止支持</summary>
+  <summary>Dead</summary>
   <p> N/A </p>
 </details>
 
