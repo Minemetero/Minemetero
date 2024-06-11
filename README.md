@@ -44,6 +44,30 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
 **You are the** <img src="https://profile-counter.glitch.me/Minemetero/count.svg" alt="icon" width="130px"> **visitor**  
 </div>
 
+## Projects
+
+<details open>
+  <summary>Active</summary>
+  <a href="https://github.com/lingbopro/easy-github-hosts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=easy-github-hosts&theme=one_dark_pro" alt="Card" />
+  </a>
+  <a href="https://github.com/lingbopro/AlwaysBing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=one_dark_pro" alt="Card" />
+  </a>
+</details>
+<details>
+  <summary>不活跃</summary>
+  <p> N/A </p>
+</details>
+<details>
+  <summary>仅维护</summary>
+  <p> N/A </p>
+</details>
+<details>
+  <summary>停止支持</summary>
+  <p> N/A </p>
+</details>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minemetero/Minemetero/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minemetero/Minemetero/output/github-contribution-grid-snake.svg">
