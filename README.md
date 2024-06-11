@@ -46,7 +46,9 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
 
 ## Projects
 
-<details open>
+You don't need to open
+
+<details> You don't need to open
   <summary>Active</summary>
   <a href="https://github.com/lingbopro/easy-github-hosts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=easy-github-hosts&theme=one_dark_pro" alt="Card" />
