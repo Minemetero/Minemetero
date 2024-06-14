@@ -78,7 +78,7 @@ You don't need to open
 <summary>Don't open...</summary>
   <div align="center">
 
-![Metrics](https://metrics.lecoq.io/Minemetero?template=classic&base.header=0&base.metadata=0&achievements=1&code=1&followup=1&repositories=1&notable=1&fortune=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&rss=false&rss.limit=4&fortune=false&config.timezone=Asia%2FTokyo)
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 </div>
 </details>
