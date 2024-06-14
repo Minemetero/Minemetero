@@ -76,9 +76,7 @@ You don't need to open
 
 <details>
 <summary>Don't open...</summary>
-  <div align="center">
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
-</div>
 </details>
