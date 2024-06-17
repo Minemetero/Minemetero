@@ -51,6 +51,9 @@ You don't need to open
   <a href="https://github.com/Minemetero/Table-Tennis-Counte">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=one_dark_pro" alt="Card" />
   </a>
+    <a href="https://github.com/Minemetero/LazyPy-School">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=LazyPy-School&theme=one_dark_pro" alt="Card" />
+  </a>
 </details>
 <details>
   <summary>Non-Active</summary>
