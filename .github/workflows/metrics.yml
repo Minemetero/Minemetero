@@ -4,11 +4,16 @@ on:
   schedule: [{cron: "0 */24 * * *"}]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
+
+  push:
+    branches:
+    - master
+  
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 🦑 Achievements
+      - name: Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -17,4 +22,5 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+          output: Achievements.svg
           plugin_fortune: yes
