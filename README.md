@@ -33,7 +33,7 @@ I might be a bit of a "~~suck~~ sus" person... but hey, that just makes life int
 
 **🔭 More skill:**
 
-![Tech stack](https://skillicons.dev/icons?i=py,opencv,raspberrypi,tensorflow,java,bash)
+![Tech stack](https://skillicons.dev/icons?i=py,html,css,js,java,bash)
 
 ![](https://github-readme-stats.vercel.app/api?username=Minemetero&theme=one_dark_pro)  
 
@@ -47,8 +47,8 @@ You don't need to open
 
 <details>
   <summary>Active</summary>
-  <a href="https://github.com/lingbopro/easy-github-hosts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=easy-github-hosts&theme=one_dark_pro" alt="Card" />
+  <a href="https://github.com/lingbopro/soberjs-vscode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=soberjs-vscode&theme=one_dark_pro" alt="Card" />
   </a>
   <a href="https://github.com/Minemetero/Table-Tennis-Counte">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=one_dark_pro" alt="Card" />
@@ -59,7 +59,9 @@ You don't need to open
 </details>
 <details>
   <summary>Non-Active</summary>
-  <p> N/A </p>
+  <a href="https://github.com/lingbopro/easy-github-hosts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=easy-github-hosts&theme=one_dark_pro" alt="Card" />
+  </a>
 </details>
 <details>
   <summary>Dead</summary>
