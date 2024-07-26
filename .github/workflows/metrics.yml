@@ -1,26 +1,60 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # 🌏 Think about the planet! No need to update stats too frequently
+  # Schedule updates (each 24 hours)
   schedule: [{cron: "0 */24 * * *"}]
-  # 💡 The following line lets you run workflow manually from the action tab!
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-
-  push:
-    branches:
-    - output
-  
+  push: {branches: ["output"]}
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
-      - name: Achievements
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: achievements.svg
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+
+          # Options
+          user: Minemetero
+          template: classic
+          base: activity, community, repositories
+          config_timezone: Asia/Tokyo
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          output: Achievements.svg
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
           plugin_fortune: yes
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
