@@ -84,6 +84,6 @@ You don't need to open
 <details>
 <summary>Don't open...</summary>
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="output/github-metrics.svg" alt="Metrics" width="400"></p>
 
 </details>
