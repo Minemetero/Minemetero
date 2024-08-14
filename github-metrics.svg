@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1454" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1574" class="">
     <defs>
         <style/>
     </defs>
@@ -44,7 +44,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            344 issue comments
+                            349 issue comments
                         </div>
                     </section>
                     <section>
@@ -340,7 +340,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.150000000000006 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.18333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -360,7 +360,7 @@
                                     <span class="prefix">Great</span>
                                     chatter
                                 </div>
-                                <div class="text">Participated in discussions 299 times</div>
+                                <div class="text">Participated in discussions 301 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -405,7 +405,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.321608040201 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.10050251256281 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -427,7 +427,7 @@
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 90 times</div>
+                                <div class="text">Repositories have been deployed 91 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -553,7 +553,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.5678391959799 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.788944723618091 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -590,9 +590,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.26m out of 142m users</span>
+                                    <span class="gh">ranked 1.37m out of 142m users</span>
                                 </div>
-                                <div class="text">Followed by 12 users</div>
+                                <div class="text">Followed by 11 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -700,7 +700,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.58m out of 216m repositories</span>
+                                    <span class="gh">ranked 2.58m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -772,7 +772,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 11 Aug 2024, 11:08:28
+                            On 11 Aug 2024, 11:07:15
                         </div>
                     </section>
                 </div>
@@ -782,20 +782,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            v0.5.1 (#9)
-
-增加 Bottom Sheet 组件
-
----------
-
-Co-authored-by: lingbopro &lt;ilovemc@zohomail.cn&gt;
+                            v0.5.1-stable
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">c6c102fa</span>
-                            <span class="code">package.json</span>
+                            <span class="code">32c043e9</span>
+                            <span class="code">custom-data/components.html-data.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -806,7 +800,7 @@ Co-authored-by: lingbopro &lt;ilovemc@zohomail.cn&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2,7 +2,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"name": "soberjs-vscode",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"displayName": "Sober.js",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"description": "为 Sober.js 组件库提供自动完成、悬停提示、代码片段等功能",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"version": "0.5.0",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"version": "0.5.1",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"publisher": "lingbopro",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"author": {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "name": "lingbopro",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -988,7 +988,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">{<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "name": "s-bottom-sheet",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  "description": "**Bottom Sheet 组件**\n\nBottom Sheet 组件用于在页面底部显示额外内容，通常作为其他组件的插槽使用。\n\n```html\n&lt;s-bottom-sheet&gt;\n  &lt;s-button slot=\"trigger\"&gt; Bottom Sheet &lt;/s-button&gt;\n  &lt;div style=\"height: 280px\"&gt;...&lt;/div&gt;\n&lt;/s-bottom-sheet&gt;\n```\n\n**插槽:**\n- `trigger`: 触发器",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  "description": "**底部面板 Bottom Sheet**\n\nBottom Sheet 组件用于在页面底部显示额外内容，通常作为其他组件的插槽使用。\n\n```html\n&lt;s-bottom-sheet&gt;\n  &lt;s-button slot=\"trigger\"&gt; Bottom Sheet &lt;/s-button&gt;\n  &lt;div style=\"height: 280px\"&gt;...&lt;/div&gt;\n&lt;/s-bottom-sheet&gt;\n```\n\n**插槽:**\n- `trigger`: 触发器",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  "attributes": [],<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "references": [<br /></span><span class="token prefix unchanged">·</span><span class="token line">    {</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -821,7 +815,7 @@ Co-authored-by: lingbopro &lt;ilovemc@zohomail.cn&gt;
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
