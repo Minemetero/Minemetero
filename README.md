@@ -71,6 +71,9 @@ You don't need to open
   <a href="https://github.com/Minemetero/BlackJack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=BlackJack&theme=one_dark_pro" alt="Card" />
   </a>
+  <a href="https://github.com/Minemetero/Hello-IPs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Hello-IPs&theme=one_dark_pro" alt="Card" />
+  </a>
 </details>
 <details>
   <summary>Archived</summary>
