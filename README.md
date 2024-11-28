@@ -82,7 +82,7 @@ You don't need to open
 
 <div align="center">
   
-**You are the** <img src="https://profile-counter.glitch.me/Minemetero/count.svg" alt="icon" width="130px"> **visitor**  
+**You are the** <img src="https://profile-counter.glitch.me/Minemetero/count.svg" alt="icon" width="130px"> **th visitor**  
 </div>
 
 <picture>
