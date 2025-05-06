@@ -47,14 +47,11 @@ You don't need to open
 
 <details>
   <summary>Active</summary>
-  <a href="https://github.com/lingbopro/soberjs-vscode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=soberjs-vscode&theme=one_dark_pro" alt="Card" />
-  </a>
   <a href="https://github.com/Minemetero/Table-Tennis-Counte">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=one_dark_pro" alt="Card" />
   </a>
-  <a href="https://github.com/Minemetero/lingbos_sussy_mod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=lingbos_sussy_mod&theme=one_dark_pro" alt="Card" />
+  <a href="https://github.com/Minemetero/Hello-IPs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Hello-IPs&theme=one_dark_pro" alt="Card" />
   </a>
 </details>
 <details>
@@ -65,14 +62,17 @@ You don't need to open
   <a href="https://github.com/Minemetero/LazyPy-School">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=LazyPy-School&theme=one_dark_pro" alt="Card" />
   </a>
+  <a href="https://github.com/lingbopro/soberjs-vscode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=soberjs-vscode&theme=one_dark_pro" alt="Card" />
+  </a>
+  <a href="https://github.com/Minemetero/lingbos_sussy_mod">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=lingbos_sussy_mod&theme=one_dark_pro" alt="Card" />
+  </a>
 </details>
 <details>
   <summary>Working In Progress</summary>
   <a href="https://github.com/Minemetero/BlackJack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=BlackJack&theme=one_dark_pro" alt="Card" />
-  </a>
-  <a href="https://github.com/Minemetero/Hello-IPs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Hello-IPs&theme=one_dark_pro" alt="Card" />
   </a>
 </details>
 <details>
