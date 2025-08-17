@@ -12,14 +12,8 @@ Hey there, I’m **@Minemetero**, it better to give me a cup of Calpis when we m
 
 <br/>
 
-**💻 Coding is my Jam:**  
-I’m all about diving into the world of bits and bytes, and currently, I'm trying to learn Java because I like Minecraft. 🧙‍♂️ But hey, I'm not stopping there, Python's on my radar too! 🐍
-
-**💞 Seeking Collaborations:**  
-While I'm not quite ready to team up just yet, I'm always open to brainstorming and exchanging ideas!
-
-**📫 Reach Me:**  
-You can find me buzzing around Discord as **Minemetero**.
+**💻 Coding...:**  
+I’m all about diving into the world of bits and bytes, and currently, I'm trying to learn Java because I like Minecraft.
 
 **😄 Pronouns:**  
 You can call me whatever you like, but I fancy ~~SILLY~~. 😄
@@ -59,25 +53,25 @@ You don't need to open
   <a href="https://github.com/lingbopro/easy-github-hosts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=easy-github-hosts&theme=one_dark_pro" alt="Card" />
   </a>
-  <a href="https://github.com/Minemetero/LazyPy-School">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=LazyPy-School&theme=one_dark_pro" alt="Card" />
-  </a>
   <a href="https://github.com/lingbopro/soberjs-vscode">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=soberjs-vscode&theme=one_dark_pro" alt="Card" />
-  </a>
-  <a href="https://github.com/Minemetero/lingbos_sussy_mod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=lingbos_sussy_mod&theme=one_dark_pro" alt="Card" />
   </a>
 </details>
 <details>
   <summary>Working In Progress</summary>
-  <a href="https://github.com/Minemetero/BlackJack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=BlackJack&theme=one_dark_pro" alt="Card" />
-  </a>
+  N/A
 </details>
 <details>
   <summary>Archived</summary>
-  <p> N/A </p>
+  <a href="https://github.com/Minemetero/LazyPy-School">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=LazyPy-School&theme=one_dark_pro" alt="Card" />
+  </a>
+  <a href="https://github.com/Minemetero/BlackJack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=BlackJack&theme=one_dark_pro" alt="Card" />
+  </a>
+  <a href="https://github.com/Minemetero/lingbos_sussy_mod">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=lingbos_sussy_mod&theme=one_dark_pro" alt="Card" />
+  </a>
 </details>
 
 <div align="center">
